@@ -4,7 +4,7 @@ This dictionary was created by converting "pinyin.map" and
 "sysphrase.txt" to a SKK dictionary format. These source files are
 included in a free package called CCE that is available at:
 
-http://ftp.debian.org/debian/dists/potato/main/source/utils/cce_0.36.orig.tar.gz
+http://archive.debian.org/debian/pool/main/c/cce/cce_0.36.orig.tar.gz
 
 Below is the copyright notice of CCE.
 
