@@ -1,7 +1,7 @@
 Pinyin to simplified chinese (簡体字) dictionary for SKK system
 
-This dictionary was created by converting "pinyin.map" and
-"sysphrase.txt" to a SKK dictionary format. These source files are
+This file was created by converting "pinyin.map" and
+"sysphrase.txt" to the SKK dictionary format. These source files are
 included in a free package called CCE that is available at:
 
 http://archive.debian.org/debian/pool/main/c/cce/cce_0.36.orig.tar.gz
